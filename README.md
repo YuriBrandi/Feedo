@@ -13,12 +13,20 @@ This University work consists of a sophisticated Azure-based architecture for ad
 [@YuriBrandi](https://github.com/YuriBrandi).
 
 ## Fido
+<img src=https://github.com/YuriBrandi/Feedo/assets/52039988/2f41feca-50d7-4e9a-8961-d4bff8d59d86 width=300>
 
-[Fido](https://en.wikipedia.org/wiki/Fido_(Italian_dog)) was an Italian dog born in 1941 who had been waiting his missing owner, died in 1943, for over 14 years.
+Photo credits: Bruno Pollacci
+
+[About Fido](https://en.wikipedia.org/wiki/Fido_(Italian_dog))
 
 ## Architecture
 
-The architecture might look overwhelming, but breaking it down from the different actor's perspectives makes it extremely simple.
+<p align='center'> 
+    <img src=https://github.com/YuriBrandi/Feedo/assets/52039988/f3c08e23-b741-4b24-97da-d47975f6215a width=750>
+</p>
+
+
+The architecture might look overwhelming at first sight, but breaking it down from the different actor's perspectives makes it extremely simple.
 
 #### Users
 The *Users* connect via Flutter-based clients to the RESTful Web Service, available through a public IP exposed to the Internet. Once authenticated through the *Email Communication Service*, they can set timers stored on the *IoT Hub*, which will eventually trigger the IoT devices' action to feed their pets.
