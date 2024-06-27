@@ -40,6 +40,11 @@ The back-end is deployed through *OneDeploy* pushes while the front-end by *CI/C
 
 ## Device Twins
 
+<p align='center'> 
+    <img src=https://github.com/YuriBrandi/Feedo/assets/52039988/0123b41a-f061-429c-9d71-a39277941ba2 width=600>
+</p>
+
+
 To make sending data to IoT devices simple without involving [Hub Endpoints](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-endpoints) or [Message routing](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-messages-d2c) can be simply yet extremely elegantly done by using [Device Twins](https://learn.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins).
 
 Device twins allow for properties to be read and written both by a back-end and by an IoT device.
@@ -53,6 +58,7 @@ The API is documented via OpenAPI [here](#) and consists of three paths:
 
 1. *.../api/users*
 2. *.../api/devices*
+
 3. *.../api/test*
 
 These first is used to create, delete, authenticate, reset users by using POST HTTPS requests.
