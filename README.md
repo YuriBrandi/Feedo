@@ -6,7 +6,7 @@
     <img src=https://github.com/YuriBrandi/Feedo/assets/52039988/80904478-2264-4ffd-9d1b-e01d45a09f14 width=250>
 </p>
 
-This University work consists of a sophisticated Azure-based architecture for administrating IoT devices across the Internet, powered by a JAX - RS RESTful back-end and a platform agnostic Flutter-based client.![Uploading feedo_logo_circle.svg…]()
+This University work consists of a sophisticated Azure-based architecture for administrating IoT devices across the Internet, powered by a JAX - RS RESTful back-end and a platform agnostic Flutter-based client.
 
 
 ### Author(s)
