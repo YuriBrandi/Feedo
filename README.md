@@ -58,7 +58,6 @@ The API is documented via OpenAPI [here](#) and consists of three paths:
 
 1. *.../api/users*
 2. *.../api/devices*
-
 3. *.../api/test*
 
 These first is used to create, delete, authenticate, reset users by using POST HTTPS requests.
