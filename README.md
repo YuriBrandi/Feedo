@@ -65,6 +65,8 @@ These first is used to create, delete, authenticate, reset users by using POST H
 
 These second is used to set and retrieve timers, specifically to get the latest triggered timer *(i.e. reported timer property)* of a time, and the next timer *(i.e. desired timer property)*.
 
+The latter accepts both GET and POST requests and is used to quickly verify the state of the service.
+
 ## Installation and usage
 A web client, an Android App Bundle *(.aab)* and a Linux native client are readily available.
 
