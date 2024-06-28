@@ -85,7 +85,7 @@ For more information regarding the employed technologies please refer to:
 - [Flutter Docs](https://docs.flutter.dev/)
 - [JAX - RS article](https://www.oracle.com/technical-resources/articles/java/jax-rs.html)
 
-The API is documented via OpenAPI [here](#).
+The API is documented via OpenAPI [here](OpenAPI.html).
 
 ## Contributions
 
