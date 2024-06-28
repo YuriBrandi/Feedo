@@ -66,6 +66,13 @@ These second is used to set and retrieve timers, specifically to get the latest 
 
 The latter accepts both GET and POST requests and is used to quickly verify the state of the service.
 
+## User Interface
+<p align='center'> 
+    <img src=https://github.com/YuriBrandi/Feedo/assets/52039988/2bd28e14-546e-4ce2-b917-98c7e7fbb678 width=650>
+</p>
+
+The UI design follows the KISS principle. Everything needed is on the main page, which can dynamically adapt to several resolutions and devices and detect *dark mode* settings in OS' and web browsers.
+
 ## Installation and usage
 A web client, an Android App Bundle *(.aab)* and a Linux native client are readily available.
 
